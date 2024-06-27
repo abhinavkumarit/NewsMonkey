@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsMonkey/static/css/main.4529c0ef.css",
+    "main.js": "/NewsMonkey/static/js/main.7b0d8bec.js",
+    "static/js/453.f6c456f2.chunk.js": "/NewsMonkey/static/js/453.f6c456f2.chunk.js",
+    "index.html": "/NewsMonkey/index.html",
+    "main.4529c0ef.css.map": "/NewsMonkey/static/css/main.4529c0ef.css.map",
+    "main.7b0d8bec.js.map": "/NewsMonkey/static/js/main.7b0d8bec.js.map",
+    "453.f6c456f2.chunk.js.map": "/NewsMonkey/static/js/453.f6c456f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4529c0ef.css",
+    "static/js/main.7b0d8bec.js"
+  ]
+}
